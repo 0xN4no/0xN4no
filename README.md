@@ -6,7 +6,7 @@ Hey! 👋 I'm Nano, a cybersecurity analyst specializing in pentesting and infor
 - 🛡️ Holder of the **eJPT (eLearnSecurity Junior Penetration Tester)** certification.
 - 🎯 Experienced in Bug Bounty, Red Team, and OSINT investigations.
 
----
+<hr style="border:1px solid #9FEF00"/>
 
 ## 🌐 Profiles & Platforms
 
@@ -33,20 +33,3 @@ For work opportunities, collaborations, or cybersecurity-related projects:
 
 - 📧 Email: **0xNano@wearehackerone.com**  
 - 🐦 Twitter/X: [@0xN4no](https://x.com/0xN4no)
-
----
-
-<!--
-**0xN4no/0xN4no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
