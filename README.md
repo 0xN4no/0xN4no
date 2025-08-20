@@ -28,6 +28,9 @@ Since then, I’ve gained extensive knowledge as a **Red Team** member and activ
   <a href="https://hackerone.com/0xNano" target="_blank">
     <img src="https://img.shields.io/badge/HackerOne-%23000000.svg?&style=for-the-badge&logo=hackerone&logoColor=white" />
   </a>
+<a href="https://hackmd.io/@Nano" target="_blank">
+  <img src="https://img.shields.io/badge/HackMD-%2300A3E0.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+</a>
 </p>
 
 ## 📫 Contact
