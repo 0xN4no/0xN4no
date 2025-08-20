@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hey! 👋 I'm Nano, a cybersecurity analyst specializing in **pentesting** and **information gathering (OSINT)**.  
+Hey! I'm Nano, a cybersecurity analyst specializing in **pentesting** and **information gathering (OSINT)**.  
 My passion for cybersecurity began at the age of 12 when I started learning about ethical hacking on my own.  
 Since then, I’ve gained extensive knowledge as a **Red Team** member and actively participate in **CTFs** to challenge my skills.
 
