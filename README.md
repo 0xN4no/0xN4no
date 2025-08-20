@@ -16,7 +16,7 @@ Since then, I’ve gained extensive knowledge as a **Red Team** member and activ
     <img src="https://img.shields.io/badge/Bugcrowd-%23F26822.svg?&style=for-the-badge&logo=bugcrowd&logoColor=white" />
   </a>
   <a href="https://app.hackthebox.com/profile/54373" target="_blank">
-    <img src="https://www.hackthebox.com/badge/image/54373" alt="Hack The Box Badge"/>
+    <img src="https://img.shields.io/badge/HackTheBox-%239FEF00.svg?&style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
   <a href="https://tryhackme.com/p/0xN4no" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-%23FF0000.svg?&style=for-the-badge&logo=tryhackme&logoColor=white" />
