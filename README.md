@@ -7,7 +7,7 @@ Since then, I’ve gained extensive knowledge as a **Red Team** member and activ
 - 🔐 Reported multiple vulnerabilities to organizations, including **NASA**.
 - 🛡️ Holder of the **eJPT (eLearnSecurity Junior Penetration Tester)** certification.
 - 🎯 Experienced in Bug Bounty, Red Team, and OSINT investigations.
-- 🏆 Solved **50+ machines on HackTheBox**, ranked **Top 10 in my country**, achieved **Pro Hacker** rank, and reached **Platinum** in Season 8.
+- 🏆 Solved **50+ machines on HackTheBox**, ranked **Top 10 in Argentina**, achieved **Pro Hacker** rank, and reached **Platinum** rank in Season 8.
 
 
 ## 🌐 Profiles & Platforms
