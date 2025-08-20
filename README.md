@@ -9,7 +9,7 @@ Since then, I’ve gained extensive knowledge as a **Red Team** member and activ
 - 🎯 Experienced in Bug Bounty, Red Team, and OSINT investigations.
 - 🏆 Solved **50+ machines on HackTheBox**, ranked **Top 10 in Argentina**, achieved **Pro Hacker** rank, and reached **Platinum** rank in Season 8.
 
-<p align="center">
+<p>
   <img src="https://www.hackthebox.com/badge/image/54373" alt="Hack The Box Badge"/>
 </p>
 
