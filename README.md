@@ -27,8 +27,6 @@ Since then, I’ve gained extensive knowledge as a **Red Team** member and activ
   </a>
 </p>
 
-<hr style="border:1px solid #9FEF00"/>
-
 ## 📫 Contact
 
 For work opportunities, collaborations, or cybersecurity-related projects:  
