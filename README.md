@@ -8,8 +8,6 @@ Since then, I’ve gained extensive knowledge as a **Red Team** member and activ
 - 🛡️ Holder of the **eJPT (eLearnSecurity Junior Penetration Tester)** certification.
 - 🎯 Experienced in Bug Bounty, Red Team, and OSINT investigations.
 
-<hr style="border:1px solid #9FEF00"/>
-
 ## 🌐 Profiles & Platforms
 
 <p align="left">
