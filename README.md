@@ -5,7 +5,7 @@ My passion for cybersecurity began at the age of 12 when I started learning abou
 Since then, I’ve gained extensive knowledge as a **Red Team** member and actively participate in **CTFs** to challenge my skills.
 
 - 🔐 Reported multiple vulnerabilities to organizations, including **NASA**.
-- 🛡️ Certified in **eJPT (eLearnSecurity Junior Penetration Tester)** and **PT1 (TryHackMe Junior Penetration Tester)**.  
+- 🛡️ Certified in **CJCA (Hack The Box Certified Junior Cybersecurity Analyst)**, **eJPT (eLearnSecurity Junior Penetration Tester)** and **PT1 (TryHackMe Junior Penetration Tester)**.  
 - 🎯 Experienced in Bug Bounty, Red Team, and OSINT investigations.
 - 🏆 Solved **50+ machines on HackTheBox**, ranked **Top 10 in Argentina**, achieved **Pro Hacker** rank, and reached **Platinum** rank in Season 8.
 
