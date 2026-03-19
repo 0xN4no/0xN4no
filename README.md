@@ -5,9 +5,10 @@ My passion for cybersecurity began at the age of 12 when I started learning abou
 Since then, I’ve gained extensive knowledge as a **Red Team** member and actively participate in **CTFs** to challenge my skills.
 
 - 🔐 Reported multiple vulnerabilities to organizations, including **NASA**.
+- 🏅 Discoverer of **CVE-2026-30048**, a **Stored Cross-Site Scripting (XSS)** vulnerability affecting an **AI-powered WebChat** component.
 - 🛡️ Certified in **CJCA (Hack The Box Certified Junior Cybersecurity Analyst)**, **eJPT (eLearnSecurity Junior Penetration Tester)** and **PT1 (TryHackMe Junior Penetration Tester)**.  
 - 🎯 Experienced in Bug Bounty, Red Team, and OSINT investigations.
-- 🏆 Solved **50+ machines on HackTheBox**, ranked **Top 10 in Argentina**, achieved **Pro Hacker** rank, and reached **Platinum** rank in Season 8.
+- 🏆 Solved **80+ machines on HackTheBox**, ranked **Top 10 in Argentina**, achieved **Pro Hacker** rank, and reached **Platinum** rank.
 
 <p>
   <img src="https://www.hackthebox.com/badge/image/54373" alt="Hack The Box Badge"/>
@@ -37,5 +38,6 @@ Since then, I’ve gained extensive knowledge as a **Red Team** member and activ
 
 For work opportunities, collaborations, or cybersecurity-related projects:  
 
-- 📧 Email: **0xNano@wearehackerone.com**  
+- 📧 Email: **0xNano@wearehackerone.com**
+- 🌐 Website: [0xnano.com](https://0xnano.com/)
 - 🐦 Twitter/X: [@0xN4no](https://x.com/0xN4no)
