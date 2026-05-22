@@ -38,6 +38,6 @@ Since then, I’ve gained extensive knowledge as a **Red Team** member and activ
 
 For work opportunities, collaborations, or cybersecurity-related projects:  
 
-- 📧 Email: **None**
+- 📧 Email: **contact@0xnano.com**
 - 🌐 Website: [0xnano.com](https://0xnano.com/)
 - 🐦 Twitter/X: [@0xN4no](https://x.com/0xN4no)
