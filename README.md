@@ -1,66 +1,124 @@
-# Hi there 👋
+<div align="center">
 
-Hey! I'm **Nano (0xNano)**, an **Offensive Security Researcher** specializing in **Application Security**, **Penetration Testing**, and **Vulnerability Research**.
+# Nano (0xNano)
 
-My cybersecurity journey began at the age of 12, driven by curiosity and a passion for understanding how systems work — and how they break. Since then, I've continuously expanded my knowledge through hands-on security research, real-world vulnerability assessments, Capture The Flag competitions, and offensive security certifications.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=3000&color=9FEF00&center=true&vCenter=true&width=700&lines=Offensive+Security+Researcher;Application+Security;Penetration+Tester;Vulnerability+Research;CVE+Author" />
+
+Application Security • Penetration Testing • Vulnerability Research • Red Team
+
+</div>
 
 ---
 
-## 🏅 Highlights
+## About Me
 
-- 🐛 Author of **CVE-2026-30048**, a **Stored Cross-Site Scripting (XSS)** vulnerability affecting an AI-powered WebChat component.
-- 🔐 Reported security vulnerabilities to multiple organizations, including **NASA**.
-- 🛡️ Certified **CPTS**, **CJCA**, **PT1**, and **eJPT**.
-- 🏆 Solved **120+ Hack The Box machines** — ranked **Top 10 in Argentina**, **Pro Hacker**, and **Holo** rank in multiple seasons.
-- 🔬 Passionate about vulnerability research, exploit development, and application security.
+I'm an Offensive Security Researcher focused on identifying, exploiting and responsibly disclosing security vulnerabilities.
 
-<p>
-  <img src="https://www.hackthebox.com/badge/image/54373" alt="Hack The Box Badge"/>
+My primary interests include Application Security, Web Security, API Security and Vulnerability Research.
+
+I enjoy building offensive tooling, publishing Proof of Concepts, solving CTFs and researching modern attack techniques.
+
+---
+
+## Highlights
+
+- 🐛 **Author of CVE-2026-30048**
+- 🚀 Security vulnerabilities reported to multiple organizations, including **NASA**
+- 🛡️ **CPTS • CJCA • PT1 • eJPT**
+- 🏆 **120+ Hack The Box machines**
+- 🇦🇷 **Top 10 Hack The Box Argentina**
+- 🔬 Offensive tooling, PoCs and vulnerability research
+
+<p align="center">
+<img src="https://www.hackthebox.com/badge/image/54373">
 </p>
 
 ---
 
-## 🚀 Areas of Interest
+## Featured Projects
 
-- 🌐 Application Security
-- 🕸️ Web Penetration Testing
-- 🔌 API Security
-- 🔬 Vulnerability Research
-- 💥 Exploit Development
-- 🗂️ Active Directory
-- 🎯 Red Team Operations
-- 🔍 OSINT
+| Project | Description |
+|---------|-------------|
+| 🔥 PoCs | Public Proof of Concepts for disclosed vulnerabilities |
+| 🛠️ Tools | Offensive Security & OSINT utilities |
+| 📝 Writeups | HTB, Labs and technical writeups |
+| 🌐 Blog | Articles about AppSec & Vulnerability Research |
 
 ---
 
-## 🌐 Profiles & Platforms
+## Areas of Interest
 
-<p align="left">
-  <a href="https://0xnano.com" target="_blank"><img src="https://img.shields.io/badge/Website-111927?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://blog.0xnano.com" target="_blank"><img src="https://img.shields.io/badge/Blog-111927?style=for-the-badge&logo=hashnode&logoColor=2962FF" alt="Blog" /></a>
-  <a href="https://app.hackthebox.com/profile/54373" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" /></a>
-  <a href="https://tryhackme.com/p/0xN4no" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=FF2E51" alt="TryHackMe" /></a>
-  <a href="https://bugcrowd.com/0xNano" target="_blank"><img src="https://img.shields.io/badge/Bugcrowd-111927?style=for-the-badge&logo=bugcrowd&logoColor=F26822" alt="Bugcrowd" /></a>
-  <a href="https://hackerone.com/0xNano" target="_blank"><img src="https://img.shields.io/badge/HackerOne-111927?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" /></a>
+- Application Security
+- Web Penetration Testing
+- Network Penetration Testing
+- Bug Bounty
+- API Security
+- Vulnerability Research
+- Exploit Development
+- Active Directory
+- Red Team
+- OSINT
+
+## Tech Stack & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111927?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Bash-111927?style=for-the-badge&logo=gnubash&logoColor=4EAA25">
+<img src="https://img.shields.io/badge/JavaScript-111927?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Burp_Suite-111927?style=for-the-badge&logo=burpsuite&logoColor=FF6633">
+<img src="https://img.shields.io/badge/Nmap-111927?style=for-the-badge&logo=nmap&logoColor=9FEF00">
+<img src="https://img.shields.io/badge/Metasploit-111927?style=for-the-badge&logo=metasploit&logoColor=2596CD">
+<img src="https://img.shields.io/badge/Wireshark-111927?style=for-the-badge&logo=wireshark&logoColor=1679A7">
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Linux-111927?style=for-the-badge&logo=linux&logoColor=FCC624">
+<img src="https://img.shields.io/badge/Docker-111927?style=for-the-badge&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Git-111927?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/OWASP-111927?style=for-the-badge&logo=owasp&logoColor=000000">
+
 </p>
 
 ---
 
-## 📫 Contact
+## Connect
 
-For work opportunities, collaborations, or security research:
+<p align="center">
 
-- 🌐 **Website:** https://0xnano.com
-- 📝 **Blog:** https://blog.0xnano.com
-- 📧 **Email:** contact@0xnano.com
-- 🐦 **X / Twitter:** https://x.com/0xN4no
+<a href="https://0xnano.com">
+<img src="https://img.shields.io/badge/Website-111927?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://blog.0xnano.com">
+<img src="https://img.shields.io/badge/Blog-111927?style=for-the-badge&logo=hashnode&logoColor=2962FF">
+</a>
+
+<a href="https://app.hackthebox.com/profile/54373">
+<img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00">
+</a>
+
+<a href="https://bugcrowd.com/0xNano">
+<img src="https://img.shields.io/badge/Bugcrowd-111927?style=for-the-badge&logo=bugcrowd&logoColor=F26822">
+</a>
+
+<a href="https://hackerone.com/0xNano">
+<img src="https://img.shields.io/badge/HackerOne-111927?style=for-the-badge&logo=hackerone&logoColor=white">
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 0xNano
-
-*"Always learning, always hacking."*
+*"Always learning. Always researching."*
 
 </div>
