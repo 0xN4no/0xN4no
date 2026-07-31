@@ -119,6 +119,6 @@ I enjoy building offensive tooling, publishing Proof of Concepts, solving CTFs a
 
 <div align="center">
 
-*"Always learning. Always researching."*
+*"Always learning. Always hacking."*
 
 </div>
